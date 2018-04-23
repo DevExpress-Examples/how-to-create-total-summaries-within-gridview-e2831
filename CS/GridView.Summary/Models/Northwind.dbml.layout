@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Northwind">
+  <DataContextMoniker Name="/NorthwindDataContext" />
+  <nestedChildShapes>
+    <classShape Id="128ba809-6405-4243-aced-4e73286dad02" absoluteBounds="4.75, 2.25, 2, 5.8092268880208326">
+      <DataClassMoniker Name="/NorthwindDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b3d2b779-9b40-4818-95ac-a93aeffeca27" absoluteBounds="4.765, 2.71, 1.9700000000000002, 5.249226888020833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
