@@ -6,6 +6,9 @@
 * **[SummaryPartial.ascx](./CS/GridView.Summary/Views/GridView/SummaryPartial.ascx) (VB: [SummaryPartial.ascx](./VB/GridView.Summary/Views/GridView/SummaryPartial.ascx))**
 <!-- default file list end -->
 # How to create total summaries within GridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2831)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to use total summaries of different types, such as Min, Average, Max, Count.</p>
