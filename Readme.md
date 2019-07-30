@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to create total summaries within GridView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2831)**
+**[[Run Online]](https://codecentral.devexpress.com/e2831/)**
 <!-- run online end -->
 
 
